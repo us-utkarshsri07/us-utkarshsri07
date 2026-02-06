@@ -15,8 +15,10 @@ CSE undergraduate focused on AI and Machine Learning.  <br>Building end-to-end p
 ##  Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-**https://medium.com/@utkarshsri07/the-rise-of-efficient-ai-e2d5347f4b76**
-**https://medium.com/@utkarshsri07/demystifying-principal-component-analysis-pca-a-step-by-step-mathematical-formulation-3ae5bbd5b7ef**
+```**https://medium.com/@utkarshsri07/the-rise-of-efficient-ai-e2d5347f4b76**```
+
+
+```**https://medium.com/@utkarshsri07/demystifying-principal-component-analysis-pca-a-step-by-step-mathematical-formulation-3ae5bbd5b7ef**```
 [![](https://visitcount.itsvg.in/api?id=us-utkarshsri07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
