@@ -1,7 +1,9 @@
-<p align="left">
+<p align="center">
   <img src="github-header-banner.png"  width="400"/>
 </p>
+
 # 💫 About Me:
+
 CSE undergraduate focused on AI and Machine Learning.  <br>Building end-to-end projects in data processing and ML systems.  <br>Interested in clean code, strong fundamentals, and scalable solutions.<br>Open to internships and collaborative projects
 
 
