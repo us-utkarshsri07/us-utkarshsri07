@@ -13,7 +13,7 @@ CSE undergraduate focused on AI and Machine Learning.  <br>Building end-to-end p
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,Python,Java,c,Numpy,Matplotlib,Pandas,Tensorflow,Pytorch,Streamlit,Keras,Anaconda,FastAPI,R,OpenCV,mlflow,Scipy,Keras,Notion,Scikit-learn" />
+    <img src="https://skillicons.dev/icons?i=git,Python,Java,c,Numpy, Matplotlib,Pandas,Tensorflow,Pytorch,Streamlit,Keras,Anaconda,FastAPI,R,OpenCV,mlflow,Scipy,Keras,Notion,Scikit-learn" />
   </a>
 </p>
 
