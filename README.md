@@ -21,6 +21,8 @@ CSE undergraduate focused on AI and Machine Learning.  <br>Building end-to-end p
 ##  Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
 **https://medium.com/@utkarshsri07/the-rise-of-efficient-ai-e2d5347f4b76**
 
 
