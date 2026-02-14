@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-header-banner.png"  width="400"/>
+  <img src="github-header-banner.png"  width="100"/>
 </p>
 
 # 💫 About Me:
