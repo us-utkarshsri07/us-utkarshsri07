@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Keyboard Warrior.gif"  width="100"/>
+  <img src="Keyboard Warrior.gif"  width="500"/>
 </p>
 
 # 💫 About Me:
